@@ -1,8 +1,11 @@
 # anchor_vault
-![Initialize Transaction Screenshot](./tx-images/tx-1.png)
+## Transaction Screenshots
 
-![Deposit Transaction Screenshot](./tx-images/tx-2.png)
+### 1. Initialize Transaction
+![Initialize Transaction - Vault Creation](./tx-images/tx-1.png "Initialize Transaction")
 
-![Withdraw Transaction Screenshot](./tx-images/tx-3.png)
+### 2. Deposit and Withdraw Transaction  
+![Deposit Funds to Vault](./tx-images/tx-2.png "Deposit Transaction")
 
-![Close Transaction Screenshot](./tx-images/tx-4.png)
+### 3. Close Transaction
+![Withdraw Funds from Vault](./tx-images/tx-3.png "Withdraw Transaction")
